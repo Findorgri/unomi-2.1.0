@@ -65,7 +65,6 @@
     <properties>
         <sonar.organization>findorgri</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>58f97d062dd68ec3711069127174723787d19f1e</sonar.login>
         <karaf.version>4.2.15</karaf.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <cxf.version>3.3.11</cxf.version>
